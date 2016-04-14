@@ -1,6 +1,6 @@
 name: The Brotherhood of Olympus
 favicon: null
-layout_spectrum: 0.64129
+layout_spectrum: 0.60758
 typography_spectrum: 0.75181
 title: 'Official Website of Best Selling Author and Award Winning Illustrator, Guy T. Simpson, Jr.'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fbd178'
     - '#f31300'
     - '#a77100'
-  brandStrength: 0.11361742136068642
+  brandStrength: 0.3125
   lightness: 0.6235983350779861
   saturation: 0.47059183311648667
   rhythmicContrast: 0.747971513774246
