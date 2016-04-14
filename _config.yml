@@ -1,0 +1,28 @@
+name: 'Guy T. Simpson, Jr.'
+favicon: null
+layout_spectrum: 0.35231384984217584
+typography_spectrum: 0.4002238258253783
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.11361742136068642
+  lightness: 0.6235983350779861
+  saturation: 0.47059183311648667
+  rhythmicContrast: 0.747971513774246
+purpose: []
